@@ -1,0 +1,13 @@
+@import "~global_styles/reset.scss";
+@import "~global_styles/varaibles.scss";
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
